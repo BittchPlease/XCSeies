@@ -1,12 +1,39 @@
 {
 "allbook":
 [
+
+
+
+
 {
-"title" : "ေမေမေလး",
-"cover" : "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Cover_of_Superman_Comic_1st_Edition_-_Summer_1939.jpg/250px-Cover_of_Superman_Comic_1st_Edition_-_Summer_1939.jpg",
-"link" : "https://raw.githubusercontent.com/XCProject19/postXD/master/",
-"tag" : "efgegf",
-"status" : "ေန့ စဥ္"
+"title" : "ရတနာရှာပုံတော်",
+"status" : "စ - ဆုံး",
+"cover" : "https://1.bp.blogspot.com/-QwqTEF5ljvo/XZt6Ur2RQ8I/AAAAAAAABDY/HqyTwki3VUI6aB7Es3pAHXca3y9klZEXACLcBGAsYHQ/s600/Image_2.jpeg",
+"author" : "စုဘူး",
+"encoder" : "XC2",
+"tag" : "short,miracle",
+"price" : "0",
+
+
+"post" : "
+ 
+<img src=\"https://1.bp.blogspot.com/-QwqTEF5ljvo/XZt6Ur2RQ8I/AAAAAAAABDY/HqyTwki3VUI6aB7Es3pAHXca3y9klZEXACLcBGAsYHQ/s1600/Image_2.jpeg\" width=\"100%\" />
+
+<img src=\"https://1.bp.blogspot.com/-P5zUXzkqCfc/XZt6Uo0JaEI/AAAAAAAABDc/sgSdmrl2GDwB_CoJwTkGE8TopuMFX3-LACLcBGAsYHQ/s1600/Image_3.jpeg\" width=\"100%\" />
+
+<img src=\"https://1.bp.blogspot.com/-H9BS2BE6vHg/XZt6VwYZuuI/AAAAAAAABDg/WDcI8nHvLcwHGiM9rBPyGjnX-uIwnwWiwCLcBGAsYHQ/s1600/Image_4.jpeg\" width=\"100%\" />
+
+<img src=\"https://1.bp.blogspot.com/-oP8WklL8Fk8/XZt6WDOVDJI/AAAAAAAABDk/CrJxNbIyZSQH69-VnZT2ZiECH_4f3tTFACLcBGAsYHQ/s1600/Image_5.jpeg\" width=\"100%\" />
+
+<img src=\"https://1.bp.blogspot.com/-FFZrAxL9PRA/XZt6WQo9f_I/AAAAAAAABDo/LpFu0PU_3uklUzET4fc4LmkC6mb7VDzKACLcBGAsYHQ/s1600/Image_6.jpeg\" width=\"100%\" />
+
+<img src=\"https://1.bp.blogspot.com/-8QAd0Us7Cbo/XZt6XJjyvKI/AAAAAAAABDs/hul0RBh3Xa8mprqMbxCOu46txJAufg0RwCLcBGAsYHQ/s1600/Image_7.jpeg\" width=\"100%\" />
+
+<img src=\"https://1.bp.blogspot.com/-l12G0qfA0Ao/XZt6XD_SH5I/AAAAAAAABDw/BITEVkNxD8YWCAWAdE7kMhrBCXuFPeAEgCLcBGAsYHQ/s1600/Image_8.jpeg\" width=\"100%\" />
+
+<img src=\"https://1.bp.blogspot.com/-orlWaaU1Nl0/XZt6XaCFGkI/AAAAAAAABD0/xqbndq70ypYq90YBae17Ji9nz5URJPA9ACLcBGAsYHQ/s1600/Image_9.jpeg\" width=\"100%\" />
+
+ "
 }
-]
+  ]
 }
